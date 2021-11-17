@@ -3,4 +3,4 @@ x = math.e
 print(x)
 y = math.log(x+1)
 print(y)
-print(x+y+1)
+print(x+y+2)
